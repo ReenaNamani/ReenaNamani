@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am a Business Analytics graduate with a masters Degree who is very good in the analytical and logical thinking and good at SQL,EXCEL,POWER BI,PYTHON and R .
+I am an experienced professional with a Master's degree and more than a year hands-on experience in data analysis. I am proficient in utilizing SQL, Power BI and Excel to drive meaningful insights. I have a strong expertise in understanding the databases, creating dynamic visualizations and assisting clients in their data-driven decision making process.
 
 *   🌍  I'm based in San Francisco
 *   ✉️  You can contact me at [reenanetha98@gmail.com](mailto:reenanetha98@gmail.com)
