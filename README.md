@@ -25,6 +25,7 @@ I am an experienced professional with a Master's degree and almost five yeras of
                   
   <p align="left">
   <a href="https://www.github.com/ReenaNamani" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/reena-namani-8a3b04252/" target="_blank" rel="noreferrer">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
