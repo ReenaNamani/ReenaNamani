@@ -23,10 +23,11 @@ I am an experienced professional with a Master's degree and almost five yeras of
   ### Socials
                   
                   
-  <p align="left">
-  <a href="https://www.github.com/ReenaNamani" target="_blank" rel="noreferrer">
-  <p align="left">
-  <a href="https://www.linkedin.com/in/reena-namani-8a3b04252/" target="_blank" rel="noreferrer">
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/reena-namani-8a3b04252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhargav-silaparasetty" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/reenanamani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhargav1996ok/" height="30" width="40" /></a>
+</p>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
