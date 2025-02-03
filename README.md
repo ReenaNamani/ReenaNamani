@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am an experienced professional with a Master's degree and more than a year hands-on expertise in data analysis. I am proficient in utilizing SQL, Power BI and Excel to drive meaningful insights. I have a strong expertise in understanding the database management, creating dynamic visualizations and assisting clients in their data-driven decision making process.
+I am an experienced professional with a Master's degree and almost five yeras of hands-on expertise in data analysis. I am proficient in utilizing SQL, Power BI , Tableau and Excel to drive meaningful insights. I have a strong expertise in understanding the database management, creating dynamic visualizations and assisting clients in their data-driven decision making process.
 
 *   🌍  I'm based in San Francisco
 *   ✉️  You can contact me at [reenanetha98@gmail.com](mailto:reenanetha98@gmail.com)
